@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试用的 on 无尽光芒</title>
+    <link>https://hehuaimin.github.io/tags/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%9A%84/</link>
+    <description>Recent content in 测试用的 on 无尽光芒</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Apr 2019 14:26:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hehuaimin.github.io/tags/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%9A%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我是测试</title>
+      <link>https://hehuaimin.github.io/posts/japanese-preview/</link>
+      <pubDate>Wed, 10 Apr 2019 14:26:00 +0800</pubDate>
+      
+      <guid>https://hehuaimin.github.io/posts/japanese-preview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
