@@ -3,536 +3,407 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://hehuaimin.github.io/categories/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://hehuaimin.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/categories/"
+                href="https://hehuaimin.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
+    <loc>https://hehuaimin.github.io/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://hehuaimin.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/"
+                href="https://hehuaimin.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/katex/</loc>
+    <loc>https://hehuaimin.github.io/tags/katex/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/katex/"
+                href="https://hehuaimin.github.io/zh-cn/tags/katex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/katex/"
+                href="https://hehuaimin.github.io/tags/katex/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://hehuaimin.github.io/posts/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/"
+                href="https://hehuaimin.github.io/zh-cn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/posts/"
+                href="https://hehuaimin.github.io/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://hehuaimin.github.io/categories/syntax/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/syntax/"
+                href="https://hehuaimin.github.io/zh-cn/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/categories/syntax/"
+                href="https://hehuaimin.github.io/categories/syntax/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://hehuaimin.github.io/tags/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://hehuaimin.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/"
+                href="https://hehuaimin.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/test-markdown/</loc>
+    <loc>https://hehuaimin.github.io/posts/test-markdown/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/test-markdown/"
+                href="https://hehuaimin.github.io/zh-cn/posts/test-markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/posts/test-markdown/"
+                href="https://hehuaimin.github.io/posts/test-markdown/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/posts/test-markdown/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/posts/test-markdown/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://hehuaimin.github.io/tags/themes/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/themes/"
+                href="https://hehuaimin.github.io/zh-cn/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/themes/"
+                href="https://hehuaimin.github.io/tags/themes/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://hehuaimin.github.io/categories/themes/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/themes/"
+                href="https://hehuaimin.github.io/zh-cn/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/categories/themes/"
+                href="https://hehuaimin.github.io/categories/themes/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/zh/posts/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/hugo/</loc>
-    <lastmod>2019-06-30T15:55:11+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tags/hugo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/posts/test/</loc>
-    <lastmod>2019-06-30T15:55:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://hehuaimin.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/css/"
+                href="https://hehuaimin.github.io/zh-cn/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/css/"
+                href="https://hehuaimin.github.io/tags/css/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://hehuaimin.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/html/"
+                href="https://hehuaimin.github.io/zh-cn/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/html/"
+                href="https://hehuaimin.github.io/tags/html/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://hehuaimin.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/markdown/"
+                href="https://hehuaimin.github.io/zh-cn/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/markdown/"
+                href="https://hehuaimin.github.io/tags/markdown/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/markdown-syntax/</loc>
+    <loc>https://hehuaimin.github.io/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/markdown-syntax/"
+                href="https://hehuaimin.github.io/zh-cn/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/posts/markdown-syntax/"
+                href="https://hehuaimin.github.io/posts/markdown-syntax/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://hehuaimin.github.io/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/series/"
+                href="https://hehuaimin.github.io/zh-cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/series/"
+                href="https://hehuaimin.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/series/themes-guide/</loc>
+    <loc>https://hehuaimin.github.io/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/series/themes-guide/"
+                href="https://hehuaimin.github.io/zh-cn/series/themes-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/series/themes-guide/"
+                href="https://hehuaimin.github.io/series/themes-guide/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/placeholder-text/</loc>
+    <loc>https://hehuaimin.github.io/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/placeholder-text/"
+                href="https://hehuaimin.github.io/zh-cn/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/posts/placeholder-text/"
+                href="https://hehuaimin.github.io/posts/placeholder-text/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://hehuaimin.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/text/"
+                href="https://hehuaimin.github.io/zh-cn/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/text/"
+                href="https://hehuaimin.github.io/tags/text/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/math/</loc>
+    <loc>https://hehuaimin.github.io/categories/math/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/math/"
+                href="https://hehuaimin.github.io/zh-cn/categories/math/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/categories/math/"
+                href="https://hehuaimin.github.io/categories/math/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/math-typesetting/</loc>
+    <loc>https://hehuaimin.github.io/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/math-typesetting/"
+                href="https://hehuaimin.github.io/zh-cn/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/posts/math-typesetting/"
+                href="https://hehuaimin.github.io/posts/math-typesetting/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://hehuaimin.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/emoji/"
+                href="https://hehuaimin.github.io/zh-cn/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/emoji/"
+                href="https://hehuaimin.github.io/tags/emoji/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/emoji-support/</loc>
+    <loc>https://hehuaimin.github.io/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/posts/emoji-support/"
+                href="https://hehuaimin.github.io/zh-cn/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/posts/emoji-support/"
+                href="https://hehuaimin.github.io/posts/emoji-support/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://hehuaimin.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/about/"
+                href="https://hehuaimin.github.io/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/about/"
+                href="https://hehuaimin.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/poetry/42/</loc>
+    <loc>https://hehuaimin.github.io/poetry/42/</loc>
     <lastmod>2017-05-20T04:24:55+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/poetry/42/"
+                href="https://hehuaimin.github.io/zh-cn/poetry/42/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/poetry/42/"
+                href="https://hehuaimin.github.io/poetry/42/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/poetry/42/</loc>
-    <lastmod>2017-05-20T04:24:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/poetry/42/</loc>
-    <lastmod>2017-05-20T04:24:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/poetry/</loc>
+    <loc>https://hehuaimin.github.io/poetry/</loc>
     <lastmod>2017-05-20T04:24:55+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/poetry/"
+                href="https://hehuaimin.github.io/zh-cn/poetry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/poetry/"
+                href="https://hehuaimin.github.io/poetry/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/poetry/</loc>
+    <loc>https://hehuaimin.github.io/tags/poetry/</loc>
     <lastmod>2017-05-20T04:24:55+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/poetry/"
+                href="https://hehuaimin.github.io/zh-cn/tags/poetry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/poetry/"
+                href="https://hehuaimin.github.io/tags/poetry/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/poetry/</loc>
+    <loc>https://hehuaimin.github.io/categories/poetry/</loc>
     <lastmod>2017-05-20T04:24:55+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/poetry/"
+                href="https://hehuaimin.github.io/zh-cn/categories/poetry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/categories/poetry/"
+                href="https://hehuaimin.github.io/categories/poetry/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/zh/poetry/</loc>
-    <lastmod>2017-05-20T04:24:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://hehuaimin.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/archives/"
+                href="https://hehuaimin.github.io/zh-cn/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/archives/"
+                href="https://hehuaimin.github.io/archives/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://example.com/en/archives/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/archives/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/zh/tags/</loc>
   </url>
   
 </urlset>

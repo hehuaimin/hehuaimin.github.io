@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Hugo 主题 MemE</title>
-        <link>https://example.com/zh-cn/</link>
+        <link>https://hehuaimin.github.io/zh-cn/</link>
         <description>MemE is a powerful and highly customizable GoHugo blog theme.</description>
         <generator>Hugo 0.58.2 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 17 Sep 2019 19:04:10 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2019 19:23:02 +0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss+xml" href="https://example.com/zh-cn/rss.xml" />
+            <atom:link rel="self" type="application/rss+xml" href="https://hehuaimin.github.io/zh-cn/rss.xml" />
         
         
             <item>
                 <title>Test Page Markdown</title>
-                <link>https://example.com/zh-cn/posts/test-markdown/</link>
-                <guid isPermaLink="true">https://example.com/zh-cn/posts/test-markdown/</guid>
+                <link>https://hehuaimin.github.io/zh-cn/posts/test-markdown/</link>
+                <guid isPermaLink="true">https://hehuaimin.github.io/zh-cn/posts/test-markdown/</guid>
                 <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
                 
                 <copyright>[Some rights reserved.](https://github.com/user501254/minimo/blob/master/LICENSE)</copyright>
@@ -1491,11 +1491,11 @@ $$</p>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/categories/themes/">themes</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/categories/themes/">themes</category>
                                 
                             
                                 
-                                    <category domain="https://example.com/zh-cn/categories/syntax/">syntax</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/categories/syntax/">syntax</category>
                                 
                             
                         
@@ -1505,11 +1505,11 @@ $$</p>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/themes/">themes</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/themes/">themes</category>
                                 
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/katex/">katex</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/katex/">katex</category>
                                 
                             
                         
@@ -1519,8 +1519,8 @@ $$</p>
         
             <item>
                 <title>测试是一个长标题</title>
-                <link>https://example.com/zh-cn/posts/test/</link>
-                <guid isPermaLink="true">https://example.com/zh-cn/posts/test/</guid>
+                <link>https://hehuaimin.github.io/zh-cn/posts/test/</link>
+                <guid isPermaLink="true">https://hehuaimin.github.io/zh-cn/posts/test/</guid>
                 <pubDate>Sun, 30 Jun 2019 15:55:11 +0800</pubDate>
                 
                 <copyright>测试文字来自一休儿的哲学博客，版权归原作者所有。</copyright>
@@ -1788,7 +1788,7 @@ $$</p>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/categories/themes/">themes</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/categories/themes/">themes</category>
                                 
                             
                         
@@ -1798,11 +1798,11 @@ $$</p>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/hugo/">hugo</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/hugo/">hugo</category>
                                 
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/katex/">katex</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/katex/">katex</category>
                                 
                             
                         
@@ -1812,8 +1812,8 @@ $$</p>
         
             <item>
                 <title>Markdown Syntax Guide</title>
-                <link>https://example.com/zh-cn/posts/markdown-syntax/</link>
-                <guid isPermaLink="true">https://example.com/zh-cn/posts/markdown-syntax/</guid>
+                <link>https://hehuaimin.github.io/zh-cn/posts/markdown-syntax/</link>
+                <guid isPermaLink="true">https://hehuaimin.github.io/zh-cn/posts/markdown-syntax/</guid>
                 <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
                 
                 <copyright>[Some rights reserved.](https://github.com/gohugoio/hugoBasicExample/blob/master/LICENSE)</copyright>
@@ -2045,19 +2045,11 @@ $$</p>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/categories/themes/">themes</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/categories/themes/">themes</category>
                                 
                             
                                 
-                                    <category domain="https://example.com/zh-cn/categories/syntax/">syntax</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                    <category domain="https://example.com/zh-cn/series/themes-guide/">themes guide</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/categories/syntax/">syntax</category>
                                 
                             
                         
@@ -2065,19 +2057,27 @@ $$</p>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/markdown/">markdown</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/series/themes-guide/">themes guide</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/markdown/">markdown</category>
                                 
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/css/">css</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/css/">css</category>
                                 
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/html/">html</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/html/">html</category>
                                 
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/themes/">themes</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/themes/">themes</category>
                                 
                             
                         
@@ -2087,8 +2087,8 @@ $$</p>
         
             <item>
                 <title>Placeholder Text</title>
-                <link>https://example.com/zh-cn/posts/placeholder-text/</link>
-                <guid isPermaLink="true">https://example.com/zh-cn/posts/placeholder-text/</guid>
+                <link>https://hehuaimin.github.io/zh-cn/posts/placeholder-text/</link>
+                <guid isPermaLink="true">https://hehuaimin.github.io/zh-cn/posts/placeholder-text/</guid>
                 <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
                 
                 <copyright>[Some rights reserved.](https://github.com/gohugoio/hugoBasicExample/blob/master/LICENSE)</copyright>
@@ -2153,11 +2153,11 @@ Propoetides <strong>parte</strong>.</p>]]></description>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/markdown/">markdown</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/markdown/">markdown</category>
                                 
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/text/">text</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/text/">text</category>
                                 
                             
                         
@@ -2167,8 +2167,8 @@ Propoetides <strong>parte</strong>.</p>]]></description>
         
             <item>
                 <title>Math Typesetting</title>
-                <link>https://example.com/zh-cn/posts/math-typesetting/</link>
-                <guid isPermaLink="true">https://example.com/zh-cn/posts/math-typesetting/</guid>
+                <link>https://hehuaimin.github.io/zh-cn/posts/math-typesetting/</link>
+                <guid isPermaLink="true">https://hehuaimin.github.io/zh-cn/posts/math-typesetting/</guid>
                 <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
                 
                 <copyright>[Some rights reserved.](https://github.com/gohugoio/hugoBasicExample/blob/master/LICENSE)</copyright>
@@ -2220,7 +2220,7 @@ $$</p>]]></description>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/categories/math/">math</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/categories/math/">math</category>
                                 
                             
                         
@@ -2230,11 +2230,11 @@ $$</p>]]></description>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/themes/">themes</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/themes/">themes</category>
                                 
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/katex/">katex</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/katex/">katex</category>
                                 
                             
                         
@@ -2244,8 +2244,8 @@ $$</p>]]></description>
         
             <item>
                 <title>Emoji Support</title>
-                <link>https://example.com/zh-cn/posts/emoji-support/</link>
-                <guid isPermaLink="true">https://example.com/zh-cn/posts/emoji-support/</guid>
+                <link>https://hehuaimin.github.io/zh-cn/posts/emoji-support/</link>
+                <guid isPermaLink="true">https://hehuaimin.github.io/zh-cn/posts/emoji-support/</guid>
                 <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
                 
                 <copyright>[Some rights reserved.](https://github.com/gohugoio/hugoBasicExample/blob/master/LICENSE)</copyright>
@@ -2286,7 +2286,7 @@ $$</p>]]></description>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/categories/themes/">themes</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/categories/themes/">themes</category>
                                 
                             
                         
@@ -2296,7 +2296,7 @@ $$</p>]]></description>
                         
                             
                                 
-                                    <category domain="https://example.com/zh-cn/tags/emoji/">emoji</category>
+                                    <category domain="https://hehuaimin.github.io/zh-cn/tags/emoji/">emoji</category>
                                 
                             
                         
